@@ -27,7 +27,7 @@
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/yourusername/wallpaper_genie.git
+   git clone https://github.com/Santhosh-Flutter-Developer/Wallpaper-Genie.git
    cd wallpaper_genie
 
 2. **Install dependencies**:
@@ -51,11 +51,10 @@
 ## Dependencies 📦
 This project uses the following Flutter packages:
 
-- [http]() for handling API requests.
-- [cached_network_image]() for efficient image caching.
-- [provider]() for state management.
-- [shared_preferences]() for storing user preferences and favorites.
-- [flutter_launcher_icons]() to generate app icons.
+- [get](https://pub.dev/packages/get) for state management and routing.
+- [http](https://pub.dev/packages/http) for handling API requests.
+- [insta_image_viewer](https://pub.dev/packages/insta_image_viewer) for display image in a full-screen, swipe it to dismiss, pinch & zoom.
+- [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view) for a collection of Flutter grids layouts.
 
 ## License 📄
 This project is licensed under the MIT License. See the [LICENSE]() file for more details.
