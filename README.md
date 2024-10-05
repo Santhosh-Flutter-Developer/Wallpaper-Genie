@@ -28,7 +28,7 @@
    
    ```bash
    git clone https://github.com/Santhosh-Flutter-Developer/Wallpaper-Genie.git
-   cd wallpaper_genie
+   cd Wallpaper-Genie
 
 2. **Install dependencies**:
    
