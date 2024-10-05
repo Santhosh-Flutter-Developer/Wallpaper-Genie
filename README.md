@@ -12,8 +12,8 @@
 - 🎨 **Fluid and responsive UI**: A seamless user experience with optimized scrolling.
 
 ## Screenshots 📸
+![Apple iPhone 11 Pro Max Presentation (1)](https://github.com/user-attachments/assets/16a9b5cf-c149-4ff3-80ad-72ec848327f7)
 
-*Add screenshots or a demo video to showcase the app.*
 
 ## Getting Started 🚀
 
